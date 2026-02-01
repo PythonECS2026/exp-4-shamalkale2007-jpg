@@ -2,7 +2,7 @@
 # Coder:Shamal 
 # Date:26/01/26
 
-# Write your code herprint("Simple Interest Calculator")
+("Simple Interest Calculator")
 principleAmount = float(input("Enter the principle amount: "))
 rateOfInterest = float(input("Enter the rate of interest: "))
 timePeriod = float(input("Enter the time period (in years): "))
